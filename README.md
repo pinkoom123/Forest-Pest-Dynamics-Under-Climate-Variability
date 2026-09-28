@@ -72,11 +72,8 @@ forest-pest-dynamics/
 ├── scripts/
 │   └── run_experiments.py        # Command-line simulation entry point
 ├── notebooks/
-│   └── forest_pest_dynamics_original.ipynb
-├── figures/                       # Generated figures and plots
-├── data/                          # Input or processed data, if added later
-├── docs/                          # Extended scientific notes
-└── tests/                         # Validation and regression tests
+│   └── forest_pest_dynamics_original.ipynb # contains all stages of the simulation
+
 ```
 
 ## Getting started
