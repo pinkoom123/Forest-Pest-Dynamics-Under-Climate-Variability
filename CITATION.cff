@@ -2,10 +2,10 @@ cff-version: 1.2.0
 title: "Forest Pest Dynamics Under Climate Variability"
 authors:
   - family-names: Inkoom
-    given-names: Patrick
+    given-names: Patrick Kobina
 date-released: 2025-04-28
 version: 1.0.0
-repository-code: "https://github.com/YOUR-USERNAME/forest-pest-dynamics"
+repository-code: "https://github.com/pinkoom123/forest-pest-dynamics-under-climate-variability"
 keywords:
   - spruce budworm
   - bark beetle
