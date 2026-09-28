@@ -110,6 +110,8 @@ jupyter lab
 
 Open `notebooks/forest_pest_dynamics_original.ipynb` and run the cells from top to bottom. The notebook contains exploratory simulations for stable dynamics, three-phase budworm–foliage interactions, bark beetle coexistence, dual-pest decline, and climate-driven collapse.
 
+The original notebook contains the full exploratory simulations and figures. The src/ and scripts/ directories provide a refactored implementation of the core model and selected climate-forcing experiments. Exact reproduction of all notebook figures requires running the notebook or extending the refactored scripts to include each scenario.
+
 ### 5. Run the script
 
 ```bash
